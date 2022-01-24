@@ -15,7 +15,6 @@
   "scripts": {
     "test": "jest",
     "cm": "npx git-cz",
-    "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
   },
   "husky": {
