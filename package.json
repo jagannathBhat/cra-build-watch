@@ -14,8 +14,7 @@
   },
   "scripts": {
     "test": "jest",
-    "cm": "npx git-cz",
-    "semantic-release": "semantic-release"
+    "cm": "npx git-cz"
   },
   "husky": {
     "hooks": {
