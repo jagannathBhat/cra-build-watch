@@ -60,13 +60,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nargonath/cra-build-watch.git"
+    "url": "https://github.com/jagannathBhat/cra-build-watch.git"
   },
   "bugs": {
-    "url": "https://github.com/Nargonath/cra-build-watch/issues"
+    "url": "https://github.com/jagannathBhat/cra-build-watch/issues"
   },
-  "homepage": "https://github.com/Nargonath/cra-build-watch#readme",
-  "author": "Nargonath <jonas.pauthier@gmail.com>",
+  "homepage": "https://github.com/jagannathBhat/cra-build-watch#readme",
+  "author": "jagannathBhat <jagannathbhatjb@gmail.com>",
   "keywords": [
     "create-react-app",
     "react",
